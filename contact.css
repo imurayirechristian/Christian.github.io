@@ -1,4 +1,6 @@
-
+body{
+background-color:gray;
+}
 .top {
   background-color: #333;
   overflow: hidden;
